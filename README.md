@@ -1,6 +1,4 @@
-# FMTC_2022
-
-Future Mobility Urban Challenge
+# 2022 Future Mobility Urban Challenge
 
 ### 발표 자료
 
